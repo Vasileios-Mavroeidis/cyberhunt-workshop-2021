@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>CyberHunt 2020</title>
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+ 
+  <body>
+   
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Workshop on Cyber Threat Intelligence and Hunting with AI (CyberHunt 2021)</h1>
+      <h2>CyberHunt 2021</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+        <a href="http://cyberhunt2021.cyberhunt.no/index.html" class="btn">Home</a>
+        <a href="" class="btn">SUBMIT Your Paper</a>
+        <a href="" class="btn">Organization</a>
+        <a href="" class="btn">WikiCFP</a>
+        <a href="http://bigdataieee.org/BigData2021/" class="btn">IEEE BigData 2020</a>
+
+
+
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+      {% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="https://vasileios-mavroeidis.github.io/cyberhunt2021.github.io/">CyberHunt2021</a></span>
+        {% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
