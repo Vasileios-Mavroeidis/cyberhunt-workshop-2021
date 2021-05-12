@@ -2,7 +2,7 @@
 
 
 
-The Workshop on Cyber Threat Intelligence and Hunting with AI is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2021 IEEE International Conference on Big Data (IEEE BigData 2021). The workshop will be held during Dec 15-18, 2020, in Orlando, FL, USA.
+The Workshop on Cyber Threat Intelligence and Hunting with AI is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2021 IEEE International Conference on Big Data (IEEE BigData 2021). The workshop will be held during Dec 15-18, 2021, in Orlando, FL, USA.
 
 
 
