@@ -9,7 +9,7 @@ permalink: /organization.md/
 ## Organizing Committee
 
 * Chair: Vasileios Mavroeidis - University of Oslo
-* PC-chair: Mateusz Zych - University of Oslo
+* Publicity Chair: Mateusz Zych - University of Oslo
 
 
 ## Program Committee
