@@ -49,3 +49,4 @@ All accepted papers will be included in the IEEE Big Data 2021 Conference Procee
 
 ### Support or Contact
 For general inquiries you can contact the workshop chair: Vasileios Mavroeidis - vasileim(@)ifi.uio.no.
+For PC-chair inquiries you can contact: Andre Büttner - andrbut(@)ifi.uio.no.
