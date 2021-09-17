@@ -9,6 +9,7 @@ permalink: /organization.md/
 ## Organizing Committee
 
 * Chair: Vasileios Mavroeidis - University of Oslo
+* Program Committee Chair: Andre Büttner -	University of Oslo
 * Publicity Chair: Mateusz Zych - University of Oslo
 
 
@@ -18,12 +19,12 @@ permalink: /organization.md/
 * Andrii Shalaginov -	Norwegian University of Science and Technology
 * Blerim Rexha - University of Prishtina
 * Fabio Massimo Zennaro -	University of Oslo
-* Gahangir Hossain - West Texas A&M University, Canyon, TX
-* Gudmund Grov - University of Oslo / FFI (Norwegian Defence Research Establishment)
+* Gahangir Hossain - West Texas A&M University
+* Gudmund Grov - Norwegian Defence Research Establishment
 * Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering
 * Jassim Happa - Department of Computer Science, University of Oxford
 * Kai Rannenberg - Goethe University Frankfurt Chair of Mobile Business & Multilateral Security
-* Lothar Fritsch - University of Oslo / Oslo Metropolitan University
+* Lothar Fritsch - Oslo Metropolitan University
 * Mateusz Zych - University of Oslo
 * Mauno Pihelgas - CCDCOE
 * Nils Gruschka - University Of Oslo
