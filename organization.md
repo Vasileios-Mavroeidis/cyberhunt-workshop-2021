@@ -16,7 +16,7 @@ permalink: /organization.md/
 ## Program Committee
 
 * Andre Büttner -	University of Oslo
-* Andrii Shalaginov -	Norwegian University of Science and Technology
+* Andrii Shalaginov -	Kristiania University College
 * Blerim Rexha - University of Prishtina
 * Fabio Massimo Zennaro -	University of Oslo
 * Gahangir Hossain - West Texas A&M University
