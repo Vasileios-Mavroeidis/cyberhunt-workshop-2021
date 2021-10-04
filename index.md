@@ -7,7 +7,7 @@ The Workshop on Cyber Threat Intelligence and Hunting with AI is organized by th
 Submission Deadline: October 11, 2021
 Notifications Due: November 1, 2021
 Author Registration -
-Camera-ready Submission Deadline:  November 15, 2021
+Camera-ready Submission Deadline:  November 21, 2021
 </pre>
 
 ### Workshop Description
