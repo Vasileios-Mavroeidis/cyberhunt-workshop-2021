@@ -17,6 +17,7 @@ permalink: /organization.md/
 
 * Andre Büttner -	University of Oslo
 * Andrii Shalaginov -	Kristiania University College
+* Audun Jøsang - University Of Oslo
 * Åvald Åslaugson Sommervoll - University of Oslo
 * Blerim Rexha - University of Prishtina
 * Fabio Massimo Zennaro -	University of Oslo
