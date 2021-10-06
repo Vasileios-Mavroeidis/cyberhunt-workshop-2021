@@ -25,6 +25,7 @@ permalink: /organization.md/
 * Gudmund Grov - Norwegian Defence Research Establishment
 * Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering
 * Jassim Happa - Department of Computer Science, University of Oxford
+* Jon-Martin Storm - University of Oslo / NVE (Norwegian Water Resources and Energy Directorate)
 * Kai Rannenberg - Goethe University Frankfurt Chair of Mobile Business & Multilateral Security
 * Lothar Fritsch - Oslo Metropolitan University
 * Mateusz Zych - University of Oslo
