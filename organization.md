@@ -24,6 +24,7 @@ permalink: /organization.md/
 * Gahangir Hossain - West Texas A&M University
 * Gudmund Grov - Norwegian Defence Research Establishment
 * Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering
+* Janne Hagen - University of Oslo / NVE (Norwegian Water Resources and Energy Directorate) 
 * Jassim Happa - Department of Computer Science, University of Oxford
 * Jon-Martin Storm - University of Oslo / NVE (Norwegian Water Resources and Energy Directorate)
 * Kai Rannenberg - Goethe University Frankfurt Chair of Mobile Business & Multilateral Security
