@@ -32,6 +32,7 @@ permalink: /organization.md/
 * Mateusz Zych - University of Oslo
 * Mauno Pihelgas - CCDCOE
 * Nils Gruschka - University Of Oslo
+* Panagiotis Karampelas - Hellenic Air Force Academy
 * Robert Chetwyn - University of Oslo
 * Sule Yildirim Yayilgan - Norwegian University of Science and Technology
 * Tamas Bisztray - University of Oslo
