@@ -23,10 +23,9 @@ permalink: /organization.md/
 * Fabio Massimo Zennaro -	University of Oslo
 * Gahangir Hossain - West Texas A&M University
 * Gudmund Grov - Norwegian Defence Research Establishment
-* Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering
-* Janne Hagen - University of Oslo / NVE (Norwegian Water Resources and Energy Directorate) 
+* Janne Hagen - Norwegian Water Resources and Energy Directorate (NVE) 
 * Jassim Happa - Department of Computer Science, University of Oxford
-* Jon-Martin Storm - University of Oslo / NVE (Norwegian Water Resources and Energy Directorate)
+* Jon-Martin Storm - Norwegian Water Resources and Energy Directorate (NVE)
 * Kai Rannenberg - Goethe University Frankfurt Chair of Mobile Business & Multilateral Security
 * Lothar Fritsch - Oslo Metropolitan University
 * Mateusz Zych - University of Oslo
@@ -34,7 +33,5 @@ permalink: /organization.md/
 * Nils Gruschka - University Of Oslo
 * Panagiotis Karampelas - Hellenic Air Force Academy
 * Robert Chetwyn - University of Oslo
-* Sule Yildirim Yayilgan - Norwegian University of Science and Technology
 * Tamas Bisztray - University of Oslo
-* Vasileios Mavroeidis - University of Oslo
 * William Buchanan - Edinburgh Napier University
