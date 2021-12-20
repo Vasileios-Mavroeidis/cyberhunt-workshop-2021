@@ -3,15 +3,6 @@
 The Workshop on Cyber Threat Intelligence and Hunting with AI is organized by the Digital Security Group of the University of Oslo (Norway) in conjunction with the 2021 IEEE International Conference on Big Data (IEEE BigData 2021). The workshop was held **Online** during Dec 15-18, 2021.<strike> in Orlando, FL, USA</strike>.
 
 
-## Keynote Presentation by: 
-**Simen Bakke - Senior Information Security Advisor - Norwegian Police ICT Services**
-
-**Title: What is (Cyber) Security Enough?**
-
-https://user-images.githubusercontent.com/29202434/146771191-81e2aa0a-dd49-425a-8d4c-c91c3677b3bc.mp4
-
-
-
 ## Important Dates
 <pre>
 Submission Deadline: October 18, 2021
