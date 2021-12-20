@@ -1,8 +1,18 @@
 ## Workshop on Cyber Threat Intelligence and Hunting with AI
 
-The Workshop on Cyber Threat Intelligence and Hunting with AI is organized by the Digital Security Group of the University of Oslo (Norway) in conjunction with the 2021 IEEE International Conference on Big Data (IEEE BigData 2021). The workshop will be held **Online** during Dec 15-18, 2021.<strike> in Orlando, FL, USA</strike>.
+The Workshop on Cyber Threat Intelligence and Hunting with AI is organized by the Digital Security Group of the University of Oslo (Norway) in conjunction with the 2021 IEEE International Conference on Big Data (IEEE BigData 2021). The workshop was held **Online** during Dec 15-18, 2021.<strike> in Orlando, FL, USA</strike>.
 
-### Important Dates
+
+## Keynote Presentation by: 
+**Simen Bakke - Senior Information Security Advisor - Norwegian Police ICT Services**
+
+**Title: What is (Cyber) Security Enough?**
+
+https://user-images.githubusercontent.com/29202434/146771191-81e2aa0a-dd49-425a-8d4c-c91c3677b3bc.mp4
+
+
+
+## Important Dates
 <pre>
 Submission Deadline: October 18, 2021
 Notifications Due: November 7, 2021
@@ -10,10 +20,10 @@ Author Registration Deadline: November 21, 2021
 Camera-ready Submission Deadline:  November 21, 2021
 </pre>
 
-### Workshop Description
+## Workshop Description
 Cyber-crimes against critical infrastructure, operational technology, IoT, and large organizations have become more complex and hybridized and are executed at machine speed. In response to that, cyber defenders’ transition from manual and reactive approaches to more automated and proactive. A key element for building a robust security posture against adversarial attacks is Cyber Threat Intelligence (CTI). CTI allows security teams to benefit from increased situational awareness and thus minimize their organizations' attack surfaces. Based on the detection maturity of an organization, such intelligence can update cyber defense components in an automated manner based on the established trust between the entity sharing the intelligence and the entity consuming it, or in more proactive approaches such as threat hunting and risk assessment. For example, TTPs used in adversarial activities can support threat hunting efforts where the objective is to detect unidentified malicious activity that evaded existing security solutions. The CyberHunt workshop aims to present AI-focused (e.g., symbolic AI, machine learning, NLP) research in the areas of cyber-threat hunting, cyber-threat intelligence, and security orchestration, automation, and response.
 
-### Research Topics
+## Research Topics
 The workshop welcomes research in the following areas.
 
 * Cyber Threat Intelligence
@@ -35,7 +45,7 @@ The workshop welcomes research in the following areas.
 
 
 
-### Submission Information
+## Submission Information
 1. [Submission Details](https://www.ieee.org/conferences/publishing/templates.html)
 
 2. [Submission Page](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php)
@@ -47,6 +57,6 @@ Papers should be formatted to IEEE Computer Society Proceedings Manuscript Forma
 All accepted papers will be included in the IEEE Big Data 2021 Conference Proceedings and forwarded for inclusion in the IEEE Xplore Digital Library. At least one author of each accepted paper must register for the conference and present the paper in order to include the paper in the proceedings.
 
 
-### Support or Contact
+## Support or Contact
 For general inquiries you can contact the workshop chair: Vasileios Mavroeidis - vasileim(@)ifi.uio.no.
 For PC-chair inquiries you can contact: Andre Büttner - andrbut(@)ifi.uio.no.
