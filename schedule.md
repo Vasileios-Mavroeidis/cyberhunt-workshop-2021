@@ -7,7 +7,9 @@ permalink: /schedule.md/
 
 ## Workshop Schedule
 **Workshop Title:** The Workshop on Cyber Threat Intelligence and Hunting with AI
-**Workshop Chair:** Vasileios Mavroeidis  
+
+**Workshop Chair:** Vasileios Mavroeidis
+
 **PC Chair:** Andre Büttner
 
 | **Time (EST)** | **Title** | **Presenter/Author** |
